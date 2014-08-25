@@ -30,7 +30,6 @@ ToDo Editors:
 ## Textastic
 ## Code Runner
 ## skEdit
-## Atom
 ## Tumult HyperEdit
 ## EditRocket
 ## Jedit X
