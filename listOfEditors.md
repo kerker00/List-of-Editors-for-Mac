@@ -6,7 +6,7 @@ the following list of editors will contain some information, a screen-shot and s
 
 The chocolat editor is a native mac application and has been released in 2011. The main goal of the chocolat developers is to support as many programming languages as possible.  
 
-![Chocolat Editor Version][link]
+![Chocolat Editor Version][http://grafixmafia.net/files/editors/chocolat.png]
 
 License: closed source.     
 Price: $49       
