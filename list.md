@@ -1,5 +1,5 @@
-## Chocolat
-## Sublime Text
+ToDo Editors:
+
 ## TextMate
 ## BBEdit
 ## Smultron
