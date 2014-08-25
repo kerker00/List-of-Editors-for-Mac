@@ -1,40 +1,40 @@
 ToDo Editors:
 
-## TextMate
+## Appcode
 ## BBEdit
+## Brackets
+## Coda (HTML/CSS/JavaScript and more)
+## Code Runner
+## CotEditor
+## Eclipse
+## Eddie
+## Emacs
+## Espresso (HTML/CSS/JavaScript and more)
+## Fraise
+## Gobby
+## HyperEdit
+## jEdit
+## Jedit X
+## JetBrains
+## Kod
+## Komodo Edit
+## Nano
+## Netbeans
+## RCode
+## Redcar
+## skEdit
+## SlickEdit
 ## Smultron
 ## SubEthaEdit
-## Gobby
-## Vim
-## Emacs
-## Nano
-## Espresso (HTML/CSS/JavaScript and more)
-## Coda (HTML/CSS/JavaScript and more)
 ## Taco
-## brackets
-## jEdit
-## Komodo Edit
+## Textadept
+## Textastic
+## Textedit
+## TextMate
+## UltraEdit
+## Vim
+## Vico
+## Xcode
 ## Editra
 ## Tincta
-## Eddie
-## Fraise
-## SlickEdit
-## Redcar
-## RCode
-## Vico
-## Textedit
-## Textadept
-## CotEditor
-## UltraEdit
-## The Dead ones
-## Kod
-## Textastic
-## Code Runner
-## skEdit
-## Tumult HyperEdit
-## Jedit X
-## Eclipse
-## Netbeans
-## Xcode
-## JetBrains
-## Appcode
+
