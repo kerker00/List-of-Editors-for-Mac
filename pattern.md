@@ -4,12 +4,12 @@ text
 
 ![screenshot][link]
 
-Licence: 
-Price: 
-Version: 
-Platforms:
-Development:
-Custom highlighting:
-Plugins: 
-Notes:
-Website:
+License:      
+Price:       
+Version:       
+Platforms:      
+Development:      
+Custom highlighting:      
+Plug-ins:       
+Notes:      
+Website:      
