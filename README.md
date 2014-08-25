@@ -1,0 +1,1 @@
+# List of Editos for the Macintosh platform.
