@@ -6,8 +6,6 @@ the following list of editors will contain some information, a screen-shot and s
 
 Atom is new in the game of Mac editors. It is developed by same people that are responsable for github.com. Atom looks very prommesing and comes with a lot of features, themes and plugins.
 
-text
-
 ![Githubs Atom](http://grafixmafia.net/files/editors/atom.png)
 
 License: MIT      
