@@ -8,6 +8,7 @@ ToDo Editors:
 ## CotEditor
 ## Eclipse
 ## Eddie
+## Editra
 ## Emacs
 ## Espresso (HTML/CSS/JavaScript and more)
 ## Fraise
@@ -31,10 +32,10 @@ ToDo Editors:
 ## Textastic
 ## Textedit
 ## TextMate
+## Tincta
 ## UltraEdit
 ## Vim
 ## Vico
-## Xcode
-## Editra
-## Tincta
+
+
 

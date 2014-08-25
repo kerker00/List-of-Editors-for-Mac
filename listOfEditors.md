@@ -94,6 +94,28 @@ Notes: Sublime exist since 2007 and has been improved a lot. Some features that 
 
 Website: [SublimeText.com](http://www.sublimetext.com)     
 
+## Xcode
+
+Xcode is apples IDE for mac os x and can be downloaded from the app store. It is a full featured IDE. It supports C,C++, Objective-C, Swift and more. Xcode lets you build native apps for OS X and iOS. 
+
+![Apples Xcode][http://grafixmafia.net/files/editors/xcode.png)]
+
+License: closed source       
+Price: free       
+Version: 5       
+Platforms: OS X     
+Development: activ      
+Custom highlighting: yes      
+Plug-ins: yes, but no official api ([http://alcatraz.io](http://alcatraz.io))
+Notes: Beside Xcode itself the Xcode tools include some more applications that helps to develop Mac and iOS applications. 
+
+- iPhone simulator
+- command line tools
+- instruments
+- and more.
+
+Website: [Xcode](https://developer.apple.com/xcode/)      
+
 
 
 
