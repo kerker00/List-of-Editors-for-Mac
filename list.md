@@ -22,6 +22,7 @@ ToDo Editors:
 ## Redcar
 ## RCode
 ## Vico
+## Textedit
 ## Textadept
 ## CotEditor
 ## UltraEdit
@@ -31,7 +32,6 @@ ToDo Editors:
 ## Code Runner
 ## skEdit
 ## Tumult HyperEdit
-## EditRocket
 ## Jedit X
 ## Eclipse
 ## Netbeans

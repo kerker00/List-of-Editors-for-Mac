@@ -12,7 +12,7 @@ License: MIT
 Price: free       
 Version: 0.12* beta       
 Platforms: OS X, Windows      
-Development: activ     
+Development: active     
 Custom highlighting: yes     
 Plug-ins: yes ([Packages](https://atom.io/packages))       
 Notes: Atom is based on googles Chrome browser and Node.js that is already full of all the functions you would expected. 
@@ -48,6 +48,28 @@ Notes: Chocolat is a beautiful designed editor with some handy feature
 - tmsyntax and tmtheme support
 
 Website: [ChocolatApp.com](https://chocolatapp.com)      
+
+## EditRocket
+
+EditRocket is a cross platform editor that does not look like a mac application and is limited in language support.
+
+![EditRocket](http://grafixmafia.net/files/editors/EditRocket.png)
+
+License: closed source     
+Price: 49,95      
+Version: 4.2       
+Platforms: OS X, Windows, Linux       
+Development: active      
+Custom highlighting: yes     
+Plug-ins: yes        
+Notes: there is nothing special about this editor. Here are some features  
+
+- compare files
+- FTP and SFTP client
+- validators (XML, CSS and more) 
+
+Website: [EditRocket.com](http://www.editrocket.com)     
+
 
 ## Sublime Text
 
