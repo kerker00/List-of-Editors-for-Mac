@@ -94,6 +94,22 @@ Notes: Sublime exist since 2007 and has been improved a lot. Some features that 
 
 Website: [SublimeText.com](http://www.sublimetext.com)     
 
+## Vico
+Vico is a lightweight text editor that can be controlled by keyboard shortcuts. It uses the same key bindings as vi. Vico can be scripted with and supports TextMate bundles, so the language support can be extended. 
+
+![Vico](http://grafixmafia.net/files/editors/vico.png)
+
+License: open source      
+Price: free      
+Version: 1.3.3        
+Platforms: OS X     
+Development: No (see Notes)
+Custom highlighting: yes      
+Plug-ins: kind of (scripting with Nu)      
+Notes: Vico uses the Carbon framework. That makes it unlikely that a new build will be released for any new version of OS X. The last commit is from dec. 2013     
+Website: [Vico](http://blog.vicoapp.com)      
+
+
 ## Xcode
 
 Xcode is apples IDE for mac os x and can be downloaded from the app store. It is a full featured IDE. It supports C,C++, Objective-C, Swift and more. Xcode lets you build native apps for OS X and iOS. 

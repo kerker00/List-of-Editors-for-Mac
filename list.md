@@ -35,7 +35,6 @@ ToDo Editors:
 ## Tincta
 ## UltraEdit
 ## Vim
-## Vico
 
 
 
