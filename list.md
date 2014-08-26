@@ -1,26 +1,48 @@
 ToDo Editors:
 
 ## Appcode
+## Arachnophilia
 ## BBEdit
+## Bluefish
 ## Brackets
 ## Coda (HTML/CSS/JavaScript and more)
 ## Code Runner
 ## CotEditor
+## Diakonos
+## ed
 ## Eclipse
 ## Eddie
 ## Editra
 ## Emacs
+## Epsilon
 ## Espresso (HTML/CSS/JavaScript and more)
 ## Fraise
+## Geany
+## gedit
 ## Gobby
 ## HyperEdit
+## JED
 ## jEdit
 ## Jedit X
 ## JetBrains
+## JOE
+## JOVE
+## Kate
 ## Kod
-## Komodo Edit
+## Komodo Edit/IDE
+## KWrite
+## KATE
+## LE
+## Light Table
+## mined
+## ne
+## nvi
 ## Nano
+## Pico
 ## RCode
+## RText
+## Sam
+## SciTE
 ## skEdit
 ## SlickEdit
 ## Smultron
@@ -31,7 +53,11 @@ ToDo Editors:
 ## Textedit
 ## TextMate
 ## Tincta
+## Ulysses 
+## vi
 ## Vim
-
+## XEmacs
+## Yi
+## zed
 
 
