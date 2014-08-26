@@ -110,6 +110,28 @@ Notes: Sublime exist since 2007 and has been improved a lot. Some features that 
 
 Website: [SublimeText.com](http://www.sublimetext.com)     
 
+## UltraEdit
+
+UltraEdit is a cross platform code editor that was born on Windows many years ago. On the website the developer claim to offer a native mac application, but the default looks like an alien from a different universe. The Mac, Windows and Linux version seem to bee not equal in the amount of feature.    
+
+![UltraEdit](http://grafixmafia.net/files/editors/UltraEdit.png)
+
+License: closed source      
+Price: $79.95      
+Version: 4.2.1       
+Platforms: OS X, Windows, Linux      
+Development: active      
+Custom highlighting:      
+Plug-ins: no, but scripting       
+Notes: The License allows to use UltraEdit on 3 System of your choice. UltraEdit is one of the few editors that does support the OS X full screen. Besides the bad UI UltraEdit also has some notable features.
+
+- integrated FTP/SFTP browser
+- diff utility
+- Column/Block Mode Editing
+- Hex Editing Support
+
+Website: [UltraEdit.com](http://www.ultraedit.com/)   
+
 ## Vico
 Vico is a lightweight text editor that can be controlled by keyboard shortcuts. It uses the same key bindings as vi. Vico can be scripted with and supports TextMate bundles, so the language support can be extended. 
 

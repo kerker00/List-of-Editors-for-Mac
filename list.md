@@ -32,7 +32,6 @@ ToDo Editors:
 ## Textedit
 ## TextMate
 ## Tincta
-## UltraEdit
 ## Vim
 
 
