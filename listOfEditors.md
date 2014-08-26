@@ -86,6 +86,29 @@ Plug-ins: yes ([Portal](http://plugins.netbeans.org))
 Notes: Big Java IDE is maybe the best summary.      
 Website: [Netbeans](https://netbeans.org)     
 
+##  Redcar
+
+Redcar is another cross platform text editor that was written in ruby and java. On the mac it looks a little bit rustic and the handling is not really mac like.  
+
+![screenshot](http://grafixmafia.net/files/editors/netbeans.png)
+
+License: open source (GPLv2)     
+Price: free      
+Version: 0.14 (alpha)     
+Platforms: OS X, Windows, Linux      
+Development: kind of (last accepted commits May 2013)     
+Custom highlighting: yes       
+Plug-ins: yes      
+Notes: Some feature that are worth noting
+
+- supports Textmate themes and snippets
+- split screen mode
+- syntax checking for many languages
+- built in REPL for Ruby, plugins for Groovy, Clojure and Mirah. 
+
+Website: [Redcar](http://redcareditor.com)
+
+
 
 ## Sublime Text
 

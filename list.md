@@ -21,7 +21,6 @@ ToDo Editors:
 ## Komodo Edit
 ## Nano
 ## RCode
-## Redcar
 ## skEdit
 ## SlickEdit
 ## Smultron
