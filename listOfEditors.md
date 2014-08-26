@@ -8,7 +8,7 @@ Atom is new in the game of Mac editors. It is developed by same people that are 
 
 ![Githubs Atom](http://grafixmafia.net/files/editors/atom.png)
 
-License: MIT      
+License: open source (MIT)      
 Price: free       
 Version: 0.12* beta       
 Platforms: OS X, Windows      
@@ -70,6 +70,22 @@ Notes: there is nothing special about this editor. Here are some features
 
 Website: [EditRocket.com](http://www.editrocket.com)     
 
+## NetBeans
+
+NetBeans is primarily a IDE with the focus on Java. There is also a C++ and a PHP version available for download. If eclipse doesn't fit your needs, NetBeans could be for you.               
+              
+![screenshot](http://grafixmafia.net/files/editors/netbeans.png)
+
+License: open source (CDDL, GPL v2)      
+Price: free      
+Version: 8       
+Platforms: OS X, Windows, Linux     
+Development: active     
+Custom highlighting: yes      
+Plug-ins: yes ([Portal](http://plugins.netbeans.org))      
+Notes: Big Java IDE is maybe the best summary.      
+Website: [Netbeans](https://netbeans.org)     
+
 
 ## Sublime Text
 
@@ -99,7 +115,7 @@ Vico is a lightweight text editor that can be controlled by keyboard shortcuts. 
 
 ![Vico](http://grafixmafia.net/files/editors/vico.png)
 
-License: open source      
+License: open source (BSD)      
 Price: free      
 Version: 1.3.3        
 Platforms: OS X     

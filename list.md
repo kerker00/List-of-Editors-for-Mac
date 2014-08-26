@@ -20,7 +20,6 @@ ToDo Editors:
 ## Kod
 ## Komodo Edit
 ## Nano
-## Netbeans
 ## RCode
 ## Redcar
 ## skEdit
