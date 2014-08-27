@@ -2,11 +2,35 @@
 
 the following list of editors will contain some information, a screen-shot and short summary. If you miss an editor in this list, let me know. I will only list editors that will at least run on Mac OS X. 
 
+## Appcode
+
+Like Xcode, Appcode is a IDE that lets you build iOS and Mac application. Appcode is very project focused and integrates an Interface Builder and can start your project in the iOS Simulator. Appcode is developed by jetbrains. Jetbrains also offer other IDEs like PhpStorm, RubyMine, PyCharm, ReSharper and more.
+
+![Appcode](http://grafixmafia.net/files/editors/AppCode.png)
+
+License: closed source     
+Price: Personal License €89, Commercial License €179, Academic License €26       
+Version: 3.0.4      
+Platforms: OS X     
+Development: aktive      
+Custom highlighting: yes      
+Plug-ins: yes ([plugin repo](http://plugins.jetbrains.com/?objc))      
+Notes: if you understand the German language and interested in Appcode you should listen to the UISprech Podcast [episode #12](http://uisprech.de/12). Appcode is not a tool to quick fix something in a file but it is a powerful but ugly IDE. 
+
+- Advanced Coding Assistance
+- Unit Testing
+- Customization and Extensibility
+- C++ IDE Features
+- VCS Support
+
+Website:  [jetbrains.com](http://www.jetbrains.com/objc/)
+
+
 ## Arachnophilia
 
 This editor is written in java and therefor a cross platform application. It is focused on java, html, xml, c and c++.    
 
-![screenshot](http://grafixmafia.net/files/editors/Archnophilia.png)
+![Arachnophilia](http://grafixmafia.net/files/editors/Archnophilia.png)
 
 License: open source (LGPL)      
 Price: free       

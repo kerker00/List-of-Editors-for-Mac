@@ -1,6 +1,5 @@
 ToDo Editors:
 
-## Appcode
 ## Aquamacs
 ## BBEdit
 ## Bluefish
