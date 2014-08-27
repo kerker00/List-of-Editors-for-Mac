@@ -2,17 +2,17 @@
 
 the following list of editors will contain some information, a screen-shot and short summary. If you miss an editor in this list, let me know. I will only list editors that will at least run on Mac OS X. 
 
-* [Appcode](#Appcode)Appcode
-* Arachnophilia
-* Atom 
-* Chocolat
-* EditRocket
-* NetBeans
-* Redcar
-* Sublime Text
-* UltraEdit
-* Vico
-* Xcode
+* [Appcode](#Appcode)
+* [Arachnophilia](#Arachnophilia)
+* [Atom](#Atom)
+* [Chocolat](#Chocolat)
+* [EditRocket](#EditRocket)
+* [NetBeans](#NetBeans)
+* [Redcar](#Redcar)
+* [Sublime Text](#SublimeText)
+* [UltraEdit](#UltraEdit)
+* [Vico](#Vico)
+* [Xcode](#Xcode)
 
 * * * 
 
@@ -42,7 +42,7 @@ Website:  [jetbrains.com](http://www.jetbrains.com/objc/)
 
 * * * 
 
-## Arachnophilia
+## Arachnophilia <a name="Arachnophilia"></a>
 
 This editor is written in java and therefor a cross platform application. It is focused on java, html, xml, c and c++.    
 
@@ -67,7 +67,7 @@ Website: [arachnoid.com](http://www.arachnoid.com/arachnophilia/index.php)
 
 * * * 
 
-## Atom 
+## Atom <a name="Atom"></a>
 
 Atom is new in the game of Mac editors. It is developed by same people that are responsable for github.com. Atom looks very prommesing and comes with a lot of features, themes and plugins.
 
@@ -93,7 +93,7 @@ Website: [atom](https://atom.io)
 
 * * * 
 
-## Chocolat
+## Chocolat <a name="Chocolat"></a>
 
 The chocolat editor is a native mac application and has been released in 2011. The main goal of the chocolat developers is to support as many programming languages as possible.  
 
@@ -118,7 +118,7 @@ Website: [ChocolatApp.com](https://chocolatapp.com)
 
 * * * 
 
-## EditRocket
+## EditRocket <a name="EditRocket"></a>
 
 EditRocket is a cross platform editor that does not look like a mac application and is limited in language support.
 
@@ -141,7 +141,7 @@ Website: [EditRocket.com](http://www.editrocket.com)
 
 * * * 
 
-## NetBeans
+## NetBeans <a name="NetBeans"></a>
 
 NetBeans is primarily a IDE with the focus on Java. There is also a C++ and a PHP version available for download. If eclipse doesn't fit your needs, NetBeans could be for you.               
               
@@ -159,7 +159,7 @@ Website: [Netbeans](https://netbeans.org)
 
 * * * 
 
-##  Redcar
+##  Redcar <a name="Redcar"></a>
 
 Redcar is another cross platform text editor that was written in ruby and java. On the mac it looks a little bit rustic and the handling is not really mac like.  
 
@@ -185,7 +185,7 @@ Website: [Redcar](http://redcareditor.com)
 
 * * * 
 
-## Sublime Text
+## Sublime Text <a name="SublimeText"></a>
 
 Sublime Text has a simple user interface similar to Chocolat and is highly customizable. Sublime is available on multiple platforms and a portable Windows version exist that can be installed on your usb drive. That enables you to carry your favorite tool always with you.
 
@@ -210,7 +210,7 @@ Website: [SublimeText.com](http://www.sublimetext.com)
 
 * * * 
 
-## UltraEdit
+## UltraEdit <a name="UltraEdit"></a>
 
 UltraEdit is a cross platform code editor that was born on Windows many years ago. On the website the developer claim to offer a native mac application, but the default looks like an alien from a different universe. The Mac, Windows and Linux version seem to bee not equal in the amount of feature.    
 
@@ -234,7 +234,7 @@ Website: [UltraEdit.com](http://www.ultraedit.com/)
 
 * * * 
 
-## Vico
+## Vico <a name="Vico"></a>
 Vico is a lightweight text editor that can be controlled by keyboard shortcuts. It uses the same key bindings as vi. Vico can be scripted with and supports TextMate bundles, so the language support can be extended. 
 
 ![Vico](http://grafixmafia.net/files/editors/vico.png)
@@ -252,7 +252,7 @@ Website: [Vico](http://blog.vicoapp.com)
 
 * * * 
 
-## Xcode
+## Xcode <a name="Xcode"></a>
 
 Xcode is apples IDE for mac os x and can be downloaded from the app store. It is a full featured IDE. It supports C,C++, Objective-C, Swift and more. Xcode lets you build native apps for OS X and iOS. 
 
