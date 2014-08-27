@@ -2,6 +2,29 @@
 
 the following list of editors will contain some information, a screen-shot and short summary. If you miss an editor in this list, let me know. I will only list editors that will at least run on Mac OS X. 
 
+## Arachnophilia
+
+This editor is written in java and therefor a cross platform application. It is focused on java, html, xml, c and c++.    
+
+![screenshot](http://grafixmafia.net/files/editors/Archnophilia.png)
+
+License: open source (LGPL)      
+Price: free       
+Version: 5.5       
+Platforms: OS X, Windows, Linux     
+Development: active (last build from early 2014)      
+Custom highlighting: yes.      
+Plug-ins: no      
+Notes: However, disregarding that the UI is ... well , this editor has some nice feature.  
+
+- Compile right from the Editor 
+- buttons for often used html elements
+- FTP Client.
+- Many code indention options
+
+Website: [arachnoid.com](http://www.arachnoid.com/arachnophilia/index.php)      
+
+
 ## Atom 
 
 Atom is new in the game of Mac editors. It is developed by same people that are responsable for github.com. Atom looks very prommesing and comes with a lot of features, themes and plugins.

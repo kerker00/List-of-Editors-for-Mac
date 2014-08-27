@@ -1,7 +1,7 @@
 ToDo Editors:
 
 ## Appcode
-## Arachnophilia
+## Aquamacs
 ## BBEdit
 ## Bluefish
 ## Brackets
