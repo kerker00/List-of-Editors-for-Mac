@@ -6,6 +6,7 @@ the following list of editors will contain some information, a screen-shot and s
 * [Arachnophilia](#Arachnophilia)
 * [Atom](#Atom)
 * [Chocolat](#Chocolat)
+* [Code Runner](#Code Runner)
 * [EditRocket](#EditRocket)
 * [NetBeans](#NetBeans)
 * [Redcar](#Redcar)
@@ -116,6 +117,31 @@ Notes: Chocolat is a beautiful designed editor with some handy feature
 
 Website: [ChocolatApp.com](https://chocolatapp.com)      
 
+* * *
+
+## Code Runner<a name="CodeRunner"></a>
+
+Another editor is Code Runner which is actuality a mini IDE. It allows quick editing and executing of popular programming languages like Java, C, Lua, Perl Python, Ruby and more.    
+
+![Code Runner](http://grafixmafia.net/files/editors/CodeRunner.png)
+
+License: closed source      
+Price: €8.99      
+Version: 1.3.1      
+Platforms: OS X      
+Development: active     
+Custom highlighting: yes      
+Plug-ins: nope      
+Notes: Code Runner is a handy tool that makes it easy to compile/execute a script or program without the need of using the Terminal/Command line. More features are: 
+
+- Customizable templates
+- Built-in Console
+- Code Completion
+- Bracket matching
+- Add your own languages! 
+
+Website: [krillapps.com](http://krillapps.com/coderunner/)     
+
 * * * 
 
 ## EditRocket <a name="EditRocket"></a>
@@ -125,7 +151,7 @@ EditRocket is a cross platform editor that does not look like a mac application 
 ![EditRocket](http://grafixmafia.net/files/editors/EditRocket.png)
 
 License: closed source     
-Price: $49,95      
+Price: $49.95      
 Version: 4.2       
 Platforms: OS X, Windows, Linux       
 Development: active      

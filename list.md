@@ -5,7 +5,6 @@ ToDo Editors:
 ## Bluefish
 ## Brackets
 ## Coda (HTML/CSS/JavaScript and more)
-## Code Runner
 ## CotEditor
 ## Diakonos
 ## ed
