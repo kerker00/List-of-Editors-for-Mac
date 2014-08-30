@@ -300,6 +300,29 @@ Notes: Beside Xcode itself the Xcode tools include some more applications that h
 
 Website: [Xcode](https://developer.apple.com/xcode/)      
 
+## zed<a name="zed"></a>
+
+Zed a young cross platform editor. The editor is based on the open source project chrome. The developers made a good job but they have a lot of work to do to make the application feel more native on the specific os. 
+
+![zed](http://grafixmafia.net/files/editors/zed.png)
+
+License: open source (MIT)     
+Price: Donationware       
+Version: 0.13      
+Platforms: OS X, Windows, Linux      
+Development: acitve     
+Custom highlighting: yes      
+Plug-ins: not now      
+Notes: As already mentioned zed is a young pice of software and already capable of some noteable features: 
+           
+- Edit Remote Files
+- Multiple cursors
+- Split-view editing
+- Themes 
+      
+Website:  [zedapp.org](http://zedapp.org)     
+
+
 
 
 

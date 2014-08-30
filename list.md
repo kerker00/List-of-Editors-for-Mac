@@ -56,6 +56,5 @@ ToDo Editors:
 ## Vim
 ## XEmacs
 ## Yi
-## zed
 
 
