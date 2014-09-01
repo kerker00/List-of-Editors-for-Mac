@@ -11,6 +11,7 @@ the following list of editors will contain some information, a screen-shot and s
 * [NetBeans](#NetBeans)
 * [Redcar](#Redcar)
 * [Sublime Text](#SublimeText)
+* [Textedit](#Textedit)
 * [UltraEdit](#UltraEdit)
 * [Vico](#Vico)
 * [Yi](#Yi)
@@ -234,6 +235,30 @@ Notes: Sublime exist since 2007 and has been improved a lot. Some features that 
 - Customize Anything
 
 Website: [SublimeText.com](http://www.sublimetext.com)     
+
+* * *
+
+## TextEdit <a name="TextEdit"></a>
+
+TextEdit is a simple TextEditor that is bundled with the mac operating system. TextEdit is not meant to be programmers best buddy, but it is pre installed and allows quick edits of files. 
+
+![TextEdit](http://grafixmafia.net/files/editors/textedit.png)
+
+License: open source (Apple MIT License)      
+Price: bundled with OS X       
+Version: 1.9       
+Platforms: OS X       
+Development: active     
+Custom highlighting: no    
+Plug-ins: no       
+Notes: Its supports different RT Formats as: 
+
+- doc
+- odt
+- rtf 
+- html
+
+Website: [apple.com/](http://support.apple.com/kb/HT2523?viewlocale=en_US&locale=en_US) 
 
 * * * 
 

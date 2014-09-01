@@ -48,7 +48,6 @@ ToDo Editors:
 ## Taco
 ## Textadept
 ## Textastic
-## Textedit
 ## TextMate
 ## Tincta
 ## Ulysses 
