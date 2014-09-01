@@ -6,13 +6,14 @@ the following list of editors will contain some information, a screen-shot and s
 * [Arachnophilia](#Arachnophilia)
 * [Atom](#Atom)
 * [Chocolat](#Chocolat)
-* [Code Runner](#Code Runner)
+* [Code Runner](#CodeRunner)
 * [EditRocket](#EditRocket)
 * [NetBeans](#NetBeans)
 * [Redcar](#Redcar)
 * [Sublime Text](#SublimeText)
 * [UltraEdit](#UltraEdit)
 * [Vico](#Vico)
+* [Yi](#Yi)
 * [Xcode](#Xcode)
 
 * * * 
@@ -300,6 +301,29 @@ Notes: Beside Xcode itself the Xcode tools include some more applications that h
 
 Website: [Xcode](https://developer.apple.com/xcode/)      
 
+## Yi <a name="Yi"></a>
+
+Yi is an editor that belongs into the Haskell world. It is written in Haskell and runs as command line tool as well as GTK application. Yi depends on the Haskell Platform which is available for different operating systems. An installation is time consuming because it will build a lot of packages. It feels a little bit like building the first package with macports. 
+
+![Yi](http://grafixmafia.net/files/editors/yi.png))
+
+License: open soure (GPL)     
+Price: free       
+Version: 0.8.1       
+Platforms: OS X, Windows, Linux      
+Development: active     
+Custom highlighting: colors depend on terminal settings.       
+Plug-ins: extensions can be written in  Haskell       
+Notes: Yi is an editor in Haskell for Haskell and here you can read a paper the give a overview with more details [link](http://publications.lib.chalmers.se/records/fulltext/local_72549.pdf). The main features are
+
+- A purely functional editor core
+- Keybindings written as parsers of the input;
+- Emacs, Vim and Cua (subset) emulations provided by default;
+- Vty and GTK+ w/ Pango(via Gtk2Hs) frontends.
+
+Website: [haskell.org](http://www.haskell.org/haskellwiki/Yi)     
+
+
 ## zed<a name="zed"></a>
 
 Zed a young cross platform editor. The editor is based on the open source project chrome. The developers made a good job but they have a lot of work to do to make the application feel more native on the specific os. 
@@ -314,7 +338,7 @@ Development: acitve
 Custom highlighting: yes      
 Plug-ins: not now      
 Notes: As already mentioned zed is a young pice of software and already capable of some noteable features: 
-           
+
 - Edit Remote Files
 - Multiple cursors
 - Split-view editing
