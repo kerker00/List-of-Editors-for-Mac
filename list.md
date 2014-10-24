@@ -4,7 +4,6 @@ ToDo Editors:
 ## BBEdit
 ## Bluefish
 ## Brackets
-## Coda (HTML/CSS/JavaScript and more)
 ## CotEditor
 ## Diakonos
 ## ed
