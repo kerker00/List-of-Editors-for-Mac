@@ -1,10 +1,12 @@
 ToDo Editors:
 
 ## Aquamacs
+## Acme
 ## BBEdit
 ## Bluefish
 ## Brackets
-## Coda (HTML/CSS/JavaScript and more)
+## Emacs for mac 
+## Emacs
 ## CotEditor
 ## Diakonos
 ## ed
@@ -13,7 +15,6 @@ ToDo Editors:
 ## Editra
 ## Emacs
 ## Epsilon
-## Espresso (HTML/CSS/JavaScript and more)
 ## Fraise
 ## Geany
 ## gedit
@@ -25,13 +26,13 @@ ToDo Editors:
 ## JetBrains
 ## JOE
 ## JOVE
-## Kate
+## Kate / KWrite
 ## Kod
 ## Komodo Edit/IDE
-## KWrite
 ## KATE
 ## LE
 ## Light Table
+## Macvim
 ## mined
 ## ne
 ## nvi
@@ -40,6 +41,7 @@ ToDo Editors:
 ## RCode
 ## RText
 ## Sam
+## SeaMonkey
 ## SciTE
 ## skEdit
 ## SlickEdit
@@ -47,12 +49,21 @@ ToDo Editors:
 ## SubEthaEdit
 ## Taco
 ## Textadept
-## Textastic
 ## TextMate
+## Texshop
 ## Tincta
 ## Ulysses 
 ## vi
 ## Vim
 ## XEmacs
+## Yudit
+
+## OzTex
 
 
+
+Markdown 
+## writeroom
+## iawrite
+## byword
+## mou
