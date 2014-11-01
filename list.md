@@ -27,7 +27,6 @@ ToDo Editors:
 ## JOE
 ## JOVE
 ## Kate / KWrite
-## Kod
 ## Komodo Edit/IDE
 ## KATE
 ## LE
